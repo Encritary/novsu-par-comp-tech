@@ -1,0 +1,7 @@
+*_O0
+*_O2
+*.exe
+*.obj
+__pycache__/
+counter.txt
+counter.lock

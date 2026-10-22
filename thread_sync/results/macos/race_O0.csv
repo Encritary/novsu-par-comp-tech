@@ -1,0 +1,7 @@
+N,M,variant,runs,less
+2,1000000,variable,100,100
+2,1000000,increment,100,100
+4,1000000,variable,100,100
+4,1000000,increment,100,100
+8,1000000,variable,100,100
+8,1000000,increment,100,100
